@@ -12,7 +12,7 @@
 
 The intention behind this repository is to always maintain a viable and simple Response Pattern to use in any type of `NodeJS Framework`
 
-<img src=".github/responses.jpg" width="200px" align="right" hspace="30px" vspace="100px">
+<img src=".github/responses.png" width="200px" align="right" hspace="30px" vspace="100px">
 
 ## Installation
 
