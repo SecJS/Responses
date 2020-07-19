@@ -1,7 +1,7 @@
 import { ResponseBuilder } from '../../src'
 import { Assert, test } from '../stub/types'
 
-test.group('ResponseBuilder', (group: any) => {
+test.group('ResponseBuilder', () => {
   test('should return a collection of objects', async (assert: Assert) => {
     const data = [
       {
